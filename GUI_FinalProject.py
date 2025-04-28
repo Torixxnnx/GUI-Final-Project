@@ -4,6 +4,14 @@ Author:
 Descrption:
 """
 
+#Current Problems:
+#1. Buttons all come up and work but do not work properly.
+
+#What I need to do:
+#1. Have seperate windows for based on the room type, or baseed on "other options"(need a better name for that).
+#2.Then have the buttons for room types and "other options" work properly in their own windows.
+#Idea: Maybe have a main window where you can choose between room types and "other options", then have those buttons open up new windows with the relevant information.
+
 
 
 from breezypythongui import EasyFrame
