@@ -1,0 +1,8 @@
+User Manual:
+
+User can choose one of the following buttons, (Livingroom, Kitchen, Bedroom, Bathroom) based off of what kind of room the user is looking to paint.
+
+After the user clicks a button, a pop up window appears with information from describing what types of colors work for that room and why. It also provides a couple of colors as examples in the text as well.
+
+
+Once the user is done reading, the user can press okay to close the pop up window and choose another room (press a different button), or press the exit button, to exit the GUI.
